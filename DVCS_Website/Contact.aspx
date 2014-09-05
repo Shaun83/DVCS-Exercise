@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Shaun's App %>.</h2>
-    <h3>Your contact page.</h3>
+    <h3>Please contact us using one of the following methods below.</h3>
     <address>
         1234 Steet St<br />
         Edmonton, AB T5G 3H6<br />
